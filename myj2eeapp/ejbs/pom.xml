@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>ejbs</artifactId>
-  <packaging>ejb</packaging>
+  <packaging>ejbs</packaging>
 
   <name>enterprise java beans</name>
 
